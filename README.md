@@ -19,7 +19,7 @@ Clone repo and run `npm install` for all needed dependencies
 
 ## Usage
 
-Start server by running `node index.js` and access editor in browser at your localhost port or utilize the [live deployment](https://hidden-journey-91433-fe59d630e34e.herokuapp.com/)
+Start server by running `npm run start` from the root and `node index.js` from the server. Proceed to access editor in browser at your localhost port or utilize the [live deployment](https://hidden-journey-91433-fe59d630e34e.herokuapp.com/)
 
 ## Credits
 
